@@ -14400,6 +14400,12 @@
     "CSharpLanguageVersion": 800
   },
   "RootNamespace": "cd_c_timeDisplay",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "/Users/cbakcoleman/Desktop/CD_C#/cd_c_timeDisplay/Views/Home/index.cshtml",
+      "TargetPath": "Views\\Home\\index.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }
